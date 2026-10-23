@@ -1,0 +1,11 @@
+# macOS / Jupyter
+.DS_Store
+.ipynb_checkpoints/
+
+# Python (uv)
+.venv
+__pycache__/
+
+# Kaggle: data is re-downloadable and not ours to redistribute; never commit credentials
+data/
+kaggle.json
