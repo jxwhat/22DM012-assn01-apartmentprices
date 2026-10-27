@@ -1,0 +1,4 @@
+more enhancements:
+* add in a chart to show how OverallQual and OverallQual_sq changes with log psf
+* let's change the random state to 42
+* change all the mathematical notations (e.g., "α") to use latex, praced by $ signs - $\alpha$ or $$\alpha$$ where necessary. 
